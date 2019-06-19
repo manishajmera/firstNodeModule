@@ -1,14 +1,14 @@
 {
-	"name": "@manishajmera27/firstnodemodule",
-	"description": "Covert Json to array",
-	"version": "1.0.0",
-	"license": "MIT",
-  	"repository": "manishajmera/firstNodeModule",
-  	"main": "index.js",
-  	"keywords": [
-    	"firstNodeModule",
-    	"npm",
-    	"package",
-    	"manishajmera"
-  	]
+  "name": "@manishajmera27/firstnodemodule",
+  "description": "Covert Json to array",
+  "version": "2.0.0",
+  "license": "MIT",
+  "repository": "manishajmera/firstNodeModule",
+  "main": "index.js",
+  "keywords": [
+    "firstNodeModule",
+    "npm",
+    "package",
+    "manishajmera"
+  ]
 }
